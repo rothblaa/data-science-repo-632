@@ -1,3 +1,4 @@
 *.sqlite filter=lfs diff=lfs merge=lfs -text
 data/database.sqlite filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
+data/public_health/covid/owid-covid-data.csv filter=lfs diff=lfs merge=lfs -text
